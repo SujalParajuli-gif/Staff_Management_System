@@ -6,5 +6,5 @@ This is a Java-based academic staff management system built using **Object-Orien
 
 ## Project Documentation
 
-📄 [Coursework Report – PDF](./Documentation/23050262_Sujal_Parajuli_Coursework_Report.pdf)  
+📄 [Coursework Report – PDF](./Documentation/23050262_Sujal_Parajuli.pdf)  
 Includes class diagrams, pseudocode, method descriptions, testing procedures, and error debugging for the complete staff management system.
